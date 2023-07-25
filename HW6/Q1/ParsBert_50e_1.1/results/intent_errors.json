@@ -1,0 +1,218 @@
+[
+  {
+    "text": "فعال شدن سرویس اینترنت چجوریه؟",
+    "intent": "faq_1",
+    "intent_prediction": {
+      "name": "faq_2",
+      "confidence": 0.210001140832901
+    }
+  },
+  {
+    "text": "مشکل با بروزرم دارم چیکار کنم؟ هیچ سایتی باز نمیشه، شما بلدید؟",
+    "intent": "faq_10",
+    "intent_prediction": {
+      "name": "faq_9",
+      "confidence": 0.29796597361564636
+    }
+  },
+  {
+    "text": "اگر در باز کردن سایت ها با مرور گر مشکل داشته باشم میتونید کمک کنید؟",
+    "intent": "faq_10",
+    "intent_prediction": {
+      "name": "faq_6",
+      "confidence": 0.43684709072113037
+    }
+  },
+  {
+    "text": "مشکل باز نشدن سایتا تو مرورگر گوشی اندرویدم چجوری درست میشن؟",
+    "intent": "faq_12",
+    "intent_prediction": {
+      "name": "faq_10",
+      "confidence": 0.4805048108100891
+    }
+  },
+  {
+    "text": "طی دو سال آینده میشه از اینترنت پر سرعت 4.5G همه جا استفاده کرد؟",
+    "intent": "faq_15",
+    "intent_prediction": {
+      "name": "faq_14",
+      "confidence": 0.7620250582695007
+    }
+  },
+  {
+    "text": "چرا مبلغ کم شده از کارت من با مبلغ اعلام شده برای بسته متفاوت است؟",
+    "intent": "faq_18",
+    "intent_prediction": {
+      "name": "faq_13",
+      "confidence": 0.32373809814453125
+    }
+  },
+  {
+    "text": "راه پیگیری وجه کم شده از حساب هنگام خرید شارژ یا بسته اینترنتی از فروشگاه همراه اول چیست؟",
+    "intent": "faq_22",
+    "intent_prediction": {
+      "name": "faq_21",
+      "confidence": 0.3137606680393219
+    }
+  },
+  {
+    "text": "کد ستاره ۱۰۰ مربع میشه بسته پر سرعت اینترنت گرفت؟",
+    "intent": "faq_23",
+    "intent_prediction": {
+      "name": "faq_1",
+      "confidence": 0.36260804533958435
+    }
+  },
+  {
+    "text": "چه کدی رو برای فعال کردن بسته نوترینو شماره گیری کنم؟",
+    "intent": "faq_23",
+    "intent_prediction": {
+      "name": "faq_8",
+      "confidence": 0.17046935856342316
+    }
+  },
+  {
+    "text": "میخواهم بدانم نوترینو چیست؟",
+    "intent": "faq_24",
+    "intent_prediction": {
+      "name": "faq_15",
+      "confidence": 0.14063552021980286
+    }
+  },
+  {
+    "text": "میشه همزمان دو تا بسته ساعات مشخص داشت؟",
+    "intent": "faq_28",
+    "intent_prediction": {
+      "name": "faq_27",
+      "confidence": 0.594929039478302
+    }
+  },
+  {
+    "text": "دو تا بسته ساعات مشخص به صورت همزمان میشه فعال کرد؟",
+    "intent": "faq_28",
+    "intent_prediction": {
+      "name": "faq_27",
+      "confidence": 0.5369279384613037
+    }
+  },
+  {
+    "text": "امکان فعال سازی همزمان دو بسته ساعات مشخص وجود دارد؟",
+    "intent": "faq_28",
+    "intent_prediction": {
+      "name": "faq_30",
+      "confidence": 0.3955546021461487
+    }
+  },
+  {
+    "text": "آیا ممکن است دو بسته اینترنت صبحانت با هم فعال کرد؟",
+    "intent": "faq_28",
+    "intent_prediction": {
+      "name": "faq_22",
+      "confidence": 0.3263624608516693
+    }
+  },
+  {
+    "text": "آیا در فعال سازی جفت بسته های اینترنت شبانه روزی و ساعت مشخص، محدودیتی وجود دارد ؟",
+    "intent": "faq_29",
+    "intent_prediction": {
+      "name": "faq_27",
+      "confidence": 0.4225323796272278
+    }
+  },
+  {
+    "text": "من خطم ۹۱۲ عه، می‌تونم بسته صبحانت بخرم؟",
+    "intent": "faq_30",
+    "intent_prediction": {
+      "name": "faq_31",
+      "confidence": 0.28271976113319397
+    }
+  },
+  {
+    "text": "بسته های ساعات مشخص مخصوص افراد خاصیه؟",
+    "intent": "faq_30",
+    "intent_prediction": {
+      "name": "faq_27",
+      "confidence": 0.5942065119743347
+    }
+  },
+  {
+    "text": "بسته های اینترنت ساعات مشخص همراه اول برای چه کسانی است؟",
+    "intent": "faq_30",
+    "intent_prediction": {
+      "name": "faq_27",
+      "confidence": 0.547812819480896
+    }
+  },
+  {
+    "text": "شرایط فعال کردن بسته های ویژه مشترکین جدید چیه؟",
+    "intent": "faq_34",
+    "intent_prediction": {
+      "name": "faq_32",
+      "confidence": 0.6804463267326355
+    }
+  },
+  {
+    "text": "چرا بسته ویژه مشترکین نمیتونم بخرم؟",
+    "intent": "faq_34",
+    "intent_prediction": {
+      "name": "faq_33",
+      "confidence": 0.3813408315181732
+    }
+  },
+  {
+    "text": "من میخوام بسته ویژه مشترکین جدید بخرم ولی خطا میده، سیم کارتمم تازه خریدم.",
+    "intent": "faq_34",
+    "intent_prediction": {
+      "name": "faq_33",
+      "confidence": 0.28761544823646545
+    }
+  },
+  {
+    "text": "آیا میشه بسته اینترنتی تمدیدی رو تغییر داد؟",
+    "intent": "faq_39",
+    "intent_prediction": {
+      "name": "faq_19",
+      "confidence": 0.6769183278083801
+    }
+  },
+  {
+    "text": "بسته اینترنت رزروم اگر فعال بشه بهم اطلاع داده میشه؟",
+    "intent": "faq_41",
+    "intent_prediction": {
+      "name": "faq_44",
+      "confidence": 0.9208992719650269
+    }
+  },
+  {
+    "text": "ایا به کمک اس ام اس بهم اطلاع داده میشه که بسته رزروم تمدید شده؟",
+    "intent": "faq_41",
+    "intent_prediction": {
+      "name": "faq_44",
+      "confidence": 0.3807344138622284
+    }
+  },
+  {
+    "text": "بعد از فعال شدن بسته رزرو ایا بهم پیامک میشه که فعال شده؟",
+    "intent": "faq_44",
+    "intent_prediction": {
+      "name": "faq_41",
+      "confidence": 0.4554368257522583
+    }
+  },
+  {
+    "text": "اگه بسته‌ی اینترنت نامحدود شبانم تموم بشه و بسته رزرو هم نداشته باشم چی میشه؟",
+    "intent": "faq_49",
+    "intent_prediction": {
+      "name": "faq_44",
+      "confidence": 0.2575224041938782
+    }
+  },
+  {
+    "text": "کد مورد استفاده برای استعلام بسته نامحدود چیه؟",
+    "intent": "faq_50",
+    "intent_prediction": {
+      "name": "faq_35",
+      "confidence": 0.23520827293395996
+    }
+  }
+]

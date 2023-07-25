@@ -1,0 +1,10 @@
+[
+  {
+    "text": "الساعه انجام میشه",
+    "intent": "confirm",
+    "intent_prediction": {
+      "name": "deny",
+      "confidence": 0.974872350692749
+    }
+  }
+]

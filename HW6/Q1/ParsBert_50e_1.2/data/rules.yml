@@ -1,0 +1,18 @@
+version: "3.1"
+
+rules:
+
+- rule: faq
+  steps:
+  - intent: faq
+  - action: utter_faq
+
+- rule: welcome
+  steps:
+  - intent: welcome
+  - action: utter_welcome
+
+- rule: bye
+  steps:
+  - intent: bye
+  - action: utter_bye

@@ -1,0 +1,138 @@
+[
+  {
+    "text": "فعال شدن سرویس اینترنت چجوریه؟",
+    "intent": "faq_1",
+    "intent_prediction": {
+      "name": "faq_2",
+      "confidence": 0.3093041777610779
+    }
+  },
+  {
+    "text": "سرویس اینترنت آموزش چه محدودیتایی داره؟",
+    "intent": "faq_6",
+    "intent_prediction": {
+      "name": "faq_7",
+      "confidence": 0.32980743050575256
+    }
+  },
+  {
+    "text": "آیا اگر بسته اینترنتم رو لغو کنم پولم استرداد میشه؟",
+    "intent": "faq_19",
+    "intent_prediction": {
+      "name": "faq_22",
+      "confidence": 0.21995624899864197
+    }
+  },
+  {
+    "text": "اگر بسته اینترنتم رو لغو کنم پول بسته برمیگرده؟",
+    "intent": "faq_19",
+    "intent_prediction": {
+      "name": "faq_22",
+      "confidence": 0.21975985169410706
+    }
+  },
+  {
+    "text": "کد ستاره ۱۰۰ مربع میشه بسته پر سرعت اینترنت گرفت؟",
+    "intent": "faq_23",
+    "intent_prediction": {
+      "name": "faq_26",
+      "confidence": 0.3687310218811035
+    }
+  },
+  {
+    "text": "چه کدی رو برای فعال کردن بسته نوترینو شماره گیری کنم؟",
+    "intent": "faq_23",
+    "intent_prediction": {
+      "name": "faq_39",
+      "confidence": 0.27566593885421753
+    }
+  },
+  {
+    "text": "تفاوت ساعات مشخص با نوترینو چیه؟",
+    "intent": "faq_27",
+    "intent_prediction": {
+      "name": "faq_25",
+      "confidence": 0.6149217486381531
+    }
+  },
+  {
+    "text": "دو تا بسته ساعات مشخص به صورت همزمان میشه فعال کرد؟",
+    "intent": "faq_28",
+    "intent_prediction": {
+      "name": "faq_29",
+      "confidence": 0.47113946080207825
+    }
+  },
+  {
+    "text": "امکان فعال سازی همزمان دو بسته ساعات مشخص وجود دارد؟",
+    "intent": "faq_28",
+    "intent_prediction": {
+      "name": "faq_29",
+      "confidence": 0.2863702178001404
+    }
+  },
+  {
+    "text": "آیا ممکن است دو بسته اینترنت صبحانت با هم فعال کرد؟",
+    "intent": "faq_28",
+    "intent_prediction": {
+      "name": "faq_18",
+      "confidence": 0.1163891851902008
+    }
+  },
+  {
+    "text": "آیا در فعال سازی جفت بسته های اینترنت شبانه روزی و ساعت مشخص، محدودیتی وجود دارد ؟",
+    "intent": "faq_29",
+    "intent_prediction": {
+      "name": "faq_27",
+      "confidence": 0.14389663934707642
+    }
+  },
+  {
+    "text": "بسته های ساعات مشخص مخصوص افراد خاصیه؟",
+    "intent": "faq_30",
+    "intent_prediction": {
+      "name": "faq_27",
+      "confidence": 0.9357555508613586
+    }
+  },
+  {
+    "text": "شرایط فعال کردن بسته های ویژه مشترکین جدید چیه؟",
+    "intent": "faq_34",
+    "intent_prediction": {
+      "name": "faq_32",
+      "confidence": 0.45337483286857605
+    }
+  },
+  {
+    "text": "چرا بسته ویژه مشترکین نمیتونم بخرم؟",
+    "intent": "faq_34",
+    "intent_prediction": {
+      "name": "faq_32",
+      "confidence": 0.20152945816516876
+    }
+  },
+  {
+    "text": "بسته اینترنت رزروم اگر فعال بشه بهم اطلاع داده میشه؟",
+    "intent": "faq_41",
+    "intent_prediction": {
+      "name": "faq_44",
+      "confidence": 0.830503523349762
+    }
+  },
+  {
+    "text": "بعد از فعال شدن بسته رزرو ایا بهم پیامک میشه که فعال شده؟",
+    "intent": "faq_44",
+    "intent_prediction": {
+      "name": "faq_41",
+      "confidence": 0.963995099067688
+    }
+  },
+  {
+    "text": "ایا به کمک اس ام اس بهم اطلاع داده میشه که بسته رزروم فعال شده؟",
+    "intent": "faq_44",
+    "intent_prediction": {
+      "name": "faq_41",
+      "confidence": 0.6187695264816284
+    }
+  }
+]

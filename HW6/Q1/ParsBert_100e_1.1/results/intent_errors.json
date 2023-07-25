@@ -1,0 +1,226 @@
+[
+  {
+    "text": "سرویس اینترنت آموزش چه محدودیتایی داره؟",
+    "intent": "faq_6",
+    "intent_prediction": {
+      "name": "faq_7",
+      "confidence": 0.729262113571167
+    }
+  },
+  {
+    "text": "طی دو سال آینده میشه از اینترنت پر سرعت 4.5G همه جا استفاده کرد؟",
+    "intent": "faq_15",
+    "intent_prediction": {
+      "name": "faq_14",
+      "confidence": 0.5748879909515381
+    }
+  },
+  {
+    "text": "هزینه بسته رزرو از کارتم کم شده ولی نمیخوامش",
+    "intent": "faq_20",
+    "intent_prediction": {
+      "name": "faq_22",
+      "confidence": 0.3745759129524231
+    }
+  },
+  {
+    "text": "برای خرید بسته اینترنت چه شماره ای بگیرم؟",
+    "intent": "faq_23",
+    "intent_prediction": {
+      "name": "faq_26",
+      "confidence": 0.3758205473423004
+    }
+  },
+  {
+    "text": "راه خرید بسته اینترنت پر سرعت از طریق کد چیه؟",
+    "intent": "faq_23",
+    "intent_prediction": {
+      "name": "faq_26",
+      "confidence": 0.487359881401062
+    }
+  },
+  {
+    "text": "میخواهم بدانم نوترینو چیست؟",
+    "intent": "faq_24",
+    "intent_prediction": {
+      "name": "faq_25",
+      "confidence": 0.4002024829387665
+    }
+  },
+  {
+    "text": "میشه تفاوتای نوترینو و اینترنت عادی رو بگید؟",
+    "intent": "faq_25",
+    "intent_prediction": {
+      "name": "faq_24",
+      "confidence": 0.5801299810409546
+    }
+  },
+  {
+    "text": "نوترینو همون بسته اینترنت است؟",
+    "intent": "faq_25",
+    "intent_prediction": {
+      "name": "faq_24",
+      "confidence": 0.4574967920780182
+    }
+  },
+  {
+    "text": "تفاوت ساعات مشخص با نوترینو چیه؟",
+    "intent": "faq_27",
+    "intent_prediction": {
+      "name": "faq_25",
+      "confidence": 0.46030986309051514
+    }
+  },
+  {
+    "text": "میشه روی بسته نوترینو بسته ساعات مشخص صبحانت یا نا محدود شبانه فعال کرد؟",
+    "intent": "faq_27",
+    "intent_prediction": {
+      "name": "faq_28",
+      "confidence": 0.5357843637466431
+    }
+  },
+  {
+    "text": "میشه همزمان دو تا بسته ساعات مشخص داشت؟",
+    "intent": "faq_28",
+    "intent_prediction": {
+      "name": "faq_27",
+      "confidence": 0.43417349457740784
+    }
+  },
+  {
+    "text": "دو تا بسته ساعات مشخص به صورت همزمان میشه فعال کرد؟",
+    "intent": "faq_28",
+    "intent_prediction": {
+      "name": "faq_27",
+      "confidence": 0.3537417948246002
+    }
+  },
+  {
+    "text": "امکان فعال سازی همزمان دو بسته ساعات مشخص وجود دارد؟",
+    "intent": "faq_28",
+    "intent_prediction": {
+      "name": "faq_30",
+      "confidence": 0.22441719472408295
+    }
+  },
+  {
+    "text": "آیا ممکن است دو بسته اینترنت صبحانت با هم فعال کرد؟",
+    "intent": "faq_28",
+    "intent_prediction": {
+      "name": "faq_6",
+      "confidence": 0.19620351493358612
+    }
+  },
+  {
+    "text": "آیا در فعال سازی جفت بسته های اینترنت شبانه روزی و ساعت مشخص، محدودیتی وجود دارد ؟",
+    "intent": "faq_29",
+    "intent_prediction": {
+      "name": "faq_44",
+      "confidence": 0.12881432473659515
+    }
+  },
+  {
+    "text": "من خطم ۹۱۲ عه، می‌تونم بسته صبحانت بخرم؟",
+    "intent": "faq_30",
+    "intent_prediction": {
+      "name": "faq_31",
+      "confidence": 0.3798063397407532
+    }
+  },
+  {
+    "text": "بسته های ساعات مشخص مخصوص افراد خاصیه؟",
+    "intent": "faq_30",
+    "intent_prediction": {
+      "name": "faq_27",
+      "confidence": 0.5552664995193481
+    }
+  },
+  {
+    "text": "از طریق اپلیکیشن هم میشه بسته اینترنت ویژه مشترکین جدید خرید؟",
+    "intent": "faq_33",
+    "intent_prediction": {
+      "name": "faq_32",
+      "confidence": 0.7376058101654053
+    }
+  },
+  {
+    "text": "شرایط فعال کردن بسته های ویژه مشترکین جدید چیه؟",
+    "intent": "faq_34",
+    "intent_prediction": {
+      "name": "faq_32",
+      "confidence": 0.8206527829170227
+    }
+  },
+  {
+    "text": "چرا بسته ویژه مشترکین نمیتونم بخرم؟",
+    "intent": "faq_34",
+    "intent_prediction": {
+      "name": "faq_32",
+      "confidence": 0.566036581993103
+    }
+  },
+  {
+    "text": "آیا میشه بسته اینترنتی تمدیدی رو تغییر داد؟",
+    "intent": "faq_39",
+    "intent_prediction": {
+      "name": "faq_19",
+      "confidence": 0.8238874077796936
+    }
+  },
+  {
+    "text": "چطور میتونم بسته اینترنتم رو با کد دستوری عوض کنم؟",
+    "intent": "faq_39",
+    "intent_prediction": {
+      "name": "faq_19",
+      "confidence": 0.2933875322341919
+    }
+  },
+  {
+    "text": "بسته اینترنت رزروم اگر فعال بشه بهم اطلاع داده میشه؟",
+    "intent": "faq_41",
+    "intent_prediction": {
+      "name": "faq_44",
+      "confidence": 0.8131625056266785
+    }
+  },
+  {
+    "text": "ایا به کمک اس ام اس بهم اطلاع داده میشه که بسته رزروم تمدید شده؟",
+    "intent": "faq_41",
+    "intent_prediction": {
+      "name": "faq_45",
+      "confidence": 0.4743858277797699
+    }
+  },
+  {
+    "text": "بعد از فعال شدن بسته رزرو ایا بهم پیامک میشه که فعال شده؟",
+    "intent": "faq_44",
+    "intent_prediction": {
+      "name": "faq_41",
+      "confidence": 0.9028053283691406
+    }
+  },
+  {
+    "text": "چطور میتونم از وجود بسته رزروم اطمینان حاصل کنم؟",
+    "intent": "faq_44",
+    "intent_prediction": {
+      "name": "faq_41",
+      "confidence": 0.2914504110813141
+    }
+  },
+  {
+    "text": "آیا اولویت با بسته اینترنت نامحدود شبانه هست هنگام فعال بودن بسته ای دیگه ؟",
+    "intent": "faq_48",
+    "intent_prediction": {
+      "name": "faq_50",
+      "confidence": 0.3663286864757538
+    }
+  },
+  {
+    "text": "چطور میتونم بسته نامحدود شبانه رو با کد دستوری خریداری کنم؟",
+    "intent": "faq_50",
+    "intent_prediction": {
+      "name": "faq_46",
+      "confidence": 0.35375770926475525
+    }
+  }
+]

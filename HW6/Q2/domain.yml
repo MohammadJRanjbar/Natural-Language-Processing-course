@@ -1,0 +1,51 @@
+version: "3.1"
+
+intents:
+  - welcome
+  - get_details
+  - confirm
+  - deny
+
+
+entities:
+  - date
+  - city
+
+slots:
+  city:
+    type: text
+    mappings:
+      - type: from_entity
+        entity: city
+
+  date:
+    type: text
+    mappings:
+      - type: from_entity
+        entity: date
+
+
+
+
+responses:
+  utter_welcome:
+  - text: "سلام، چه کمکی از دستم برمیاد؟"
+  - text: "سلام، بفرمایید؟"
+  - text: "سلام، لطفا مقصد و تاریخ سفر خود را اعلام کنید"
+  utter_get_details:
+  - text: "آیا یه دنبال بلیت هواپیما به مقصد {city} در تاریخ {date} هستید؟"
+  - text: "میخوای در تاریخ {date} به شهر {city} سفر کنی؟"
+  
+  utter_confirm:
+  - text: "در حال جست و جوی بلیت برای شما"
+  - text: "بله به دنبال بلیت مورد نظر برای شما هستیم"
+  
+  utter_deny:
+  - text: "لطفا یک بار دیگر اطلاعات مورد نظر را وارد کنید"
+  - text: "لطفا دوباره مقصد و تاریخ خود را اعلام کنید"
+
+
+
+session_config:
+  session_expiration_time: 60
+  carry_over_slots_to_new_session: true

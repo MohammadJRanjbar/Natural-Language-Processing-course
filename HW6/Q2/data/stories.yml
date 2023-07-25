@@ -1,0 +1,22 @@
+version: "3.1"
+
+stories:
+
+- story: confirm path
+  steps:
+  - intent: welcome
+  - action: utter_welcome
+  - intent: get_details
+  - action: utter_get_details
+  - intent: confirm
+  - action: utter_confirm
+
+- story: deny path
+  steps:
+  - intent: welcome
+  - action: utter_welcome
+  - intent: get_details
+  - action: utter_get_details
+  - intent: deny
+  - action: utter_deny
+

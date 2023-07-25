@@ -1,0 +1,162 @@
+[
+  {
+    "text": "سرویس اینترنتم نیاز به غیر فعالسازی داره؟ پیامکی هم میشه؟",
+    "intent_response_key_target": "faq/4",
+    "intent_response_key_prediction": {
+      "name": "faq/3",
+      "confidence": 0.19013012945652008
+    }
+  },
+  {
+    "text": "طی دو سال آینده میشه از اینترنت پر سرعت 4.5G همه جا استفاده کرد؟",
+    "intent_response_key_target": "faq/15",
+    "intent_response_key_prediction": {
+      "name": "faq/14",
+      "confidence": 0.5928608179092407
+    }
+  },
+  {
+    "text": "چرا مبلغ کم شده از کارت من با مبلغ اعلام شده برای بسته متفاوت است؟",
+    "intent_response_key_target": "faq/18",
+    "intent_response_key_prediction": {
+      "name": "faq/44",
+      "confidence": 0.3111474812030792
+    }
+  },
+  {
+    "text": "هزینه بسته رزرو از کارتم کم شده ولی نمیخوامش",
+    "intent_response_key_target": "faq/20",
+    "intent_response_key_prediction": {
+      "name": "faq/44",
+      "confidence": 0.2536107301712036
+    }
+  },
+  {
+    "text": "برای خرید بسته اینترنت چه شماره ای بگیرم؟",
+    "intent_response_key_target": "faq/23",
+    "intent_response_key_prediction": {
+      "name": "faq/26",
+      "confidence": 0.29202088713645935
+    }
+  },
+  {
+    "text": "میشه تفاوتای نوترینو و اینترنت عادی رو بگید؟",
+    "intent_response_key_target": "faq/25",
+    "intent_response_key_prediction": {
+      "name": "faq/23",
+      "confidence": 0.26263511180877686
+    }
+  },
+  {
+    "text": "تفاوت ساعات مشخص با نوترینو چیه؟",
+    "intent_response_key_target": "faq/27",
+    "intent_response_key_prediction": {
+      "name": "faq/25",
+      "confidence": 0.6398712396621704
+    }
+  },
+  {
+    "text": "میشه همزمان دو تا بسته ساعات مشخص داشت؟",
+    "intent_response_key_target": "faq/28",
+    "intent_response_key_prediction": {
+      "name": "faq/27",
+      "confidence": 0.7981181740760803
+    }
+  },
+  {
+    "text": "دو تا بسته ساعات مشخص به صورت همزمان میشه فعال کرد؟",
+    "intent_response_key_target": "faq/28",
+    "intent_response_key_prediction": {
+      "name": "faq/30",
+      "confidence": 0.40323564410209656
+    }
+  },
+  {
+    "text": "امکان فعال سازی همزمان دو بسته ساعات مشخص وجود دارد؟",
+    "intent_response_key_target": "faq/28",
+    "intent_response_key_prediction": {
+      "name": "faq/30",
+      "confidence": 0.40287378430366516
+    }
+  },
+  {
+    "text": "آیا ممکن است دو بسته اینترنت صبحانت با هم فعال کرد؟",
+    "intent_response_key_target": "faq/28",
+    "intent_response_key_prediction": {
+      "name": "faq/30",
+      "confidence": 0.15945254266262054
+    }
+  },
+  {
+    "text": "آیا در فعال سازی جفت بسته های اینترنت شبانه روزی و ساعت مشخص، محدودیتی وجود دارد ؟",
+    "intent_response_key_target": "faq/29",
+    "intent_response_key_prediction": {
+      "name": "faq/27",
+      "confidence": 0.2041117548942566
+    }
+  },
+  {
+    "text": "من خطم ۹۱۲ عه، می‌تونم بسته صبحانت بخرم؟",
+    "intent_response_key_target": "faq/30",
+    "intent_response_key_prediction": {
+      "name": "faq/31",
+      "confidence": 0.18440546095371246
+    }
+  },
+  {
+    "text": "شرایط فعال کردن بسته های ویژه مشترکین جدید چیه؟",
+    "intent_response_key_target": "faq/34",
+    "intent_response_key_prediction": {
+      "name": "faq/32",
+      "confidence": 0.5621229410171509
+    }
+  },
+  {
+    "text": "آیا میشه بسته اینترنتی تمدیدی رو تغییر داد؟",
+    "intent_response_key_target": "faq/39",
+    "intent_response_key_prediction": {
+      "name": "faq/19",
+      "confidence": 0.3540765345096588
+    }
+  },
+  {
+    "text": "بسته اینترنت رزروم اگر فعال بشه بهم اطلاع داده میشه؟",
+    "intent_response_key_target": "faq/41",
+    "intent_response_key_prediction": {
+      "name": "faq/44",
+      "confidence": 0.896625280380249
+    }
+  },
+  {
+    "text": "ایا به کمک اس ام اس بهم اطلاع داده میشه که بسته رزروم تمدید شده؟",
+    "intent_response_key_target": "faq/41",
+    "intent_response_key_prediction": {
+      "name": "faq/44",
+      "confidence": 0.3755897879600525
+    }
+  },
+  {
+    "text": "بعد از فعال شدن بسته رزرو ایا بهم پیامک میشه که فعال شده؟",
+    "intent_response_key_target": "faq/44",
+    "intent_response_key_prediction": {
+      "name": "faq/41",
+      "confidence": 0.8746685981750488
+    }
+  },
+  {
+    "text": "چطور میتونم از وجود بسته رزروم اطمینان حاصل کنم؟",
+    "intent_response_key_target": "faq/44",
+    "intent_response_key_prediction": {
+      "name": "faq/41",
+      "confidence": 0.28916463255882263
+    }
+  },
+  {
+    "text": "کد مورد استفاده برای استعلام بسته نامحدود چیه؟",
+    "intent_response_key_target": "faq/50",
+    "intent_response_key_prediction": {
+      "name": "faq/35",
+      "confidence": 0.5551319718360901
+    }
+  }
+]

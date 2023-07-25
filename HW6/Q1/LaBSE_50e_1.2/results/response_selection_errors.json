@@ -1,0 +1,130 @@
+[
+  {
+    "text": "مشکل باز نشدن سایتا تو مرورگر گوشی اندرویدم چجوری درست میشن؟",
+    "intent_response_key_target": "faq/12",
+    "intent_response_key_prediction": {
+      "name": "faq/10",
+      "confidence": 0.37405601143836975
+    }
+  },
+  {
+    "text": "چرا مبلغ کم شده از کارت من با مبلغ اعلام شده برای بسته متفاوت است؟",
+    "intent_response_key_target": "faq/18",
+    "intent_response_key_prediction": {
+      "name": "faq/44",
+      "confidence": 0.09268064796924591
+    }
+  },
+  {
+    "text": "تفاوت ساعات مشخص با نوترینو چیه؟",
+    "intent_response_key_target": "faq/27",
+    "intent_response_key_prediction": {
+      "name": "faq/24",
+      "confidence": 0.2506663501262665
+    }
+  },
+  {
+    "text": "میشه روی بسته نوترینو بسته ساعات مشخص صبحانت یا نا محدود شبانه فعال کرد؟",
+    "intent_response_key_target": "faq/27",
+    "intent_response_key_prediction": {
+      "name": "faq/28",
+      "confidence": 0.3963892161846161
+    }
+  },
+  {
+    "text": "دو تا بسته ساعات مشخص به صورت همزمان میشه فعال کرد؟",
+    "intent_response_key_target": "faq/28",
+    "intent_response_key_prediction": {
+      "name": "faq/27",
+      "confidence": 0.3726937174797058
+    }
+  },
+  {
+    "text": "امکان فعال سازی همزمان دو بسته ساعات مشخص وجود دارد؟",
+    "intent_response_key_target": "faq/28",
+    "intent_response_key_prediction": {
+      "name": "faq/27",
+      "confidence": 0.3682180643081665
+    }
+  },
+  {
+    "text": "آیا ممکن است دو بسته اینترنت صبحانت با هم فعال کرد؟",
+    "intent_response_key_target": "faq/28",
+    "intent_response_key_prediction": {
+      "name": "faq/44",
+      "confidence": 0.10950011014938354
+    }
+  },
+  {
+    "text": "آیا در فعال سازی جفت بسته های اینترنت شبانه روزی و ساعت مشخص، محدودیتی وجود دارد ؟",
+    "intent_response_key_target": "faq/29",
+    "intent_response_key_prediction": {
+      "name": "faq/28",
+      "confidence": 0.19770361483097076
+    }
+  },
+  {
+    "text": "آیا امکان تعویض ترتیب مصرف بسته های شبانه روزی با ساعت مشخص وجود دارد ؟",
+    "intent_response_key_target": "faq/29",
+    "intent_response_key_prediction": {
+      "name": "faq/28",
+      "confidence": 0.44178497791290283
+    }
+  },
+  {
+    "text": "من خطم ۹۱۲ عه، می‌تونم بسته صبحانت بخرم؟",
+    "intent_response_key_target": "faq/30",
+    "intent_response_key_prediction": {
+      "name": "faq/31",
+      "confidence": 0.17675326764583588
+    }
+  },
+  {
+    "text": "بسته های ساعات مشخص مخصوص افراد خاصیه؟",
+    "intent_response_key_target": "faq/30",
+    "intent_response_key_prediction": {
+      "name": "faq/27",
+      "confidence": 0.65181565284729
+    }
+  },
+  {
+    "text": "چطور میتونم بسته اینترنتم رو با کد دستوری عوض کنم؟",
+    "intent_response_key_target": "faq/39",
+    "intent_response_key_prediction": {
+      "name": "faq/19",
+      "confidence": 0.3908825218677521
+    }
+  },
+  {
+    "text": "بسته اینترنت رزروم اگر فعال بشه بهم اطلاع داده میشه؟",
+    "intent_response_key_target": "faq/41",
+    "intent_response_key_prediction": {
+      "name": "faq/44",
+      "confidence": 0.8734149932861328
+    }
+  },
+  {
+    "text": "ایا به کمک اس ام اس بهم اطلاع داده میشه که بسته رزروم تمدید شده؟",
+    "intent_response_key_target": "faq/41",
+    "intent_response_key_prediction": {
+      "name": "faq/44",
+      "confidence": 0.7801839709281921
+    }
+  },
+  {
+    "text": "بعد از فعال شدن بسته رزرو ایا بهم پیامک میشه که فعال شده؟",
+    "intent_response_key_target": "faq/44",
+    "intent_response_key_prediction": {
+      "name": "faq/41",
+      "confidence": 0.8705547451972961
+    }
+  },
+  {
+    "text": "اگه بسته‌ی اینترنت نامحدود شبانم تموم بشه و بسته رزرو هم نداشته باشم چی میشه؟",
+    "intent_response_key_target": "faq/49",
+    "intent_response_key_prediction": {
+      "name": "faq/42",
+      "confidence": 0.29710084199905396
+    }
+  }
+]
