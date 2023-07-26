@@ -1,6 +1,6 @@
 # Natural-Language-Processing-course <img src="University_of_Tehran_logo.svg.png" alt="Machine Learning" width="50">
 
-Welcome to the Statistical Inference course repository offered at the University of Tehran. This repository contains code for assignments and projects completed during the course. The course by:
+Welcome to the Natural Language Processing course repository offered at the University of Tehran. This repository contains code for assignments and projects completed during the course. The course by:
 
 - [Dr. Heshaam Faili](https://scholar.google.se/citations?user=m5tCFEoAAAAJ&hl=en)
 
